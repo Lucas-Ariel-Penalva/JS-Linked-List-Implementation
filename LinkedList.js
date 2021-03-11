@@ -157,7 +157,7 @@ class LinkedList {
     };
 
     arrayToLinkedList(array) {
-        if (!Array.isArray(array));
+        if (!Array.isArray(array))
         throw new TypeError("This method only accepts an array.");
 
         let currentNode;
