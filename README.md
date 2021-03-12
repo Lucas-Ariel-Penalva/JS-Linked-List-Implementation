@@ -31,7 +31,7 @@ Observations about this particular implementation:
 
 ##### 8. toArray() - Returns an array with all the data from the Linked List.
 
-##### 9. arrayToLinkedList(array) - Takes an array of strings and/or numbers, transforms it into nodes and appends it to the end of the Linked List.
+##### 9. arrayToLinkedList(array) - Takes an array of strings and/or numbers, transforms it into nodes and appends them to the end of the Linked List.
 
 ##### 10. reverseList() - Reverses the Linked List.
 
